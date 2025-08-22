@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Blessings Radingoane!
 
 Welcome to my GitHub profile!  
-I'm a passionate **Full Stack Developer** skilled in **C++**, **Python**, **JavaScript**, **HTML**, and **CSS**. I love building impactful software and collaborating on innovative projects.
+I'm a passionate **Computer Science and Applied Mathematics student at the University of the Witwatersrand** skilled in **C++**, **Python**, **JavaScript**, **HTML**, and **CSS**. I love building impactful software and collaborating on innovative projects.
 
 ---
 
